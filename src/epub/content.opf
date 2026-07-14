@@ -35,7 +35,7 @@
 		<meta property="file-as" refines="#subtitle">A Tale of the Riots of ’Eighty</meta>
 		<meta property="file-as" refines="#title">Barnaby Rudge</meta>
 		<dc:title id="fulltitle">Barnaby Rudge: A Tale of the Riots of ’Eighty</dc:title>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="file-as" refines="#fulltitle">Barnaby Rudge</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
