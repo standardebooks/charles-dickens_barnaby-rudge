@@ -68,7 +68,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/917</dc:source>
 		<dc:source>https://archive.org/details/barnabyrudge00dickrich</dc:source>
-		<meta property="schema:wordCount">255379</meta>
+		<meta property="schema:wordCount">255380</meta>
 		<meta property="schema:educationalLevel">67.28</meta>
 		<link href="https://en.wikipedia.org/wiki/Barnaby_Rudge" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
@@ -83,7 +83,7 @@
 		<dc:contributor id="artist">William Powell Frith</dc:contributor>
 		<meta property="file-as" refines="#artist">Frith, William Powell</meta>
 		<link href="https://en.wikipedia.org/wiki/William_Powell_Frith" refines="#artist" rel="schema:sameAs"/>
-		<link href="	https://lccn.loc.gov/nr89014511" refines="#artist" rel="schema:sameAs"/>
+		<link href=" https://lccn.loc.gov/nr89014511" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Donald Lainson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lainson, Donald</meta>
