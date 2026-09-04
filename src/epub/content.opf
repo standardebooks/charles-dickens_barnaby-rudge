@@ -40,13 +40,13 @@
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
-		<dc:subject id="subject-2">Gordon Riots, 1780 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Gordon Riots, 1780--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008118255</meta>
-		<dc:subject id="subject-3">London (England) -- History -- 18th century -- Fiction</dc:subject>
+		<dc:subject id="subject-3">London (England)--History--18th century--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107114</meta>
-		<dc:subject id="subject-4">Apprentices -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Apprentices--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008117601</meta>
 		<dc:subject id="subject-5">Political fiction</dc:subject>
@@ -55,7 +55,7 @@
 		<dc:subject id="subject-6">Mystery fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<dc:subject id="subject-7">Locksmiths -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Locksmiths--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2010100119</meta>
 		<meta property="schema:genre">Fiction</meta>
